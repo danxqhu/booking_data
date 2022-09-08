@@ -1,0 +1,39 @@
+_id: req_1ff0b57b5883484cb8f6841651587a06
+type: Request
+parentId: wrk_4dfd236f17fd4bfb962c4a6609b950dc
+modified: 1662645202380
+created: 1662643905317
+url: localhost:8800/api/hotels
+name: CREATE HOTEL
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+     "name":"Hotel Xin",
+     "type":"hotel",
+     "city":"Berlin",
+     "address":"somewhere",
+     "distance":"500",
+     "photos":"",
+     "title":"Best Hotel in the City",
+     "desc":"hotel description",
+     "rating":"",
+     "rooms":"",
+     "cheapestPrice":"100"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_98cb8b1b47d2403691c0fc6244f0bee4
+authentication: {}
+metaSortKey: -1662643905317
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_cac351e1776243379115b68fec747357
+type: Request
+parentId: wrk_4dfd236f17fd4bfb962c4a6609b950dc
+modified: 1662645204118
+created: 1662644665926
+url: localhost:8800/api/hotels/6319f084c82c25e1b3490654
+name: UPDATE HOTEL
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"Hotel John"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9c5d3bfba55a4af88273b4770ab6397b
+authentication: {}
+metaSortKey: -1662644665926
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

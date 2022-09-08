@@ -1,0 +1,21 @@
+_id: req_40cd594f9e3e43f993e3aa1ab009ab1c
+type: Request
+parentId: wrk_4dfd236f17fd4bfb962c4a6609b950dc
+modified: 1662645171041
+created: 1662645127515
+url: localhost:8800/api/hotels/6319b0e17a4fe254ff19557a
+name: GET HOTEL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1662645127515
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
